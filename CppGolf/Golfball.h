@@ -24,7 +24,7 @@ public:
 	void CheckCollision(Map &map);
 
 private:
-	void Push();
+	void DragBall();
 	void Bounce(const Tile &tile);
 
 };
