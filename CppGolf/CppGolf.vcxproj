@@ -128,9 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CppGolf.cpp" />
+    <ClCompile Include="Golfball.cpp" />
     <ClCompile Include="Map.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Golfball.h" />
     <ClInclude Include="Map.h" />
     <ClInclude Include="Settings.h" />
     <ClInclude Include="Tile.h" />
